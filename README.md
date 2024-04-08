@@ -42,6 +42,7 @@ The Entity API is designed to manage entities with CRUD operations (Create, Read
 - **GET /entity/:id**: Get an entity by ID.
 - **PUT /entity/:id**: Update an entity by ID.
 - **DELETE /entity/:id**: Delete an entity by ID.
+- **you can find the postamn file for more guid on config folder**
 
 ## Technologies Used
 
